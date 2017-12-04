@@ -8,6 +8,7 @@ package com.ws.controller;
 public class Text {
 
     public static void main(String[] args) {
-        System.out.println("sss");
+
+        System.out.println("吴姗");
     }
 }
